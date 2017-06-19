@@ -37,3 +37,4 @@ C:\Users\kapeltol\Documents\Demos\PaaSWebAppDemo\SandvikHelloWorld\bin\Antlr3.Ru
 C:\Users\kapeltol\Documents\Demos\PaaSWebAppDemo\SandvikHelloWorld\bin\Newtonsoft.Json.xml
 C:\Users\kapeltol\Documents\Demos\PaaSWebAppDemo\SandvikHelloWorld\obj\Release\SandvikHelloWorld.dll
 C:\Users\kapeltol\Documents\Demos\PaaSWebAppDemo\SandvikHelloWorld\obj\Release\SandvikHelloWorld.pdb
+C:\Users\kapeltol\Documents\Demos\PaaSWebAppDemo\SandvikHelloWorld\obj\Release\PaaSWebAppDemo.csprojResolveAssemblyReference.cache
